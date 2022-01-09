@@ -1,0 +1,3 @@
+title=Paint
+author=Luis Boscan
+orientation=landscape
